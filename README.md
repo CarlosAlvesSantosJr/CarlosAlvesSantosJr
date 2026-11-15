@@ -40,8 +40,9 @@
 </p>
 
 ---
-- 🌐 **No ar:** [painelsamu192.vercel.app](https://painelsamu192.vercel.app) (acesso restrito à coordenação)
 - 🌐 **No ar:** [minhaescala192.vercel.app](https://minhaescala192.vercel.app) (acesso dos usuarios e coordenação)
+- 🌐 **No ar:** [painelsamu192.vercel.app](https://painelsamu192.vercel.app) (acesso restrito à coordenação)
+- 🌐 **No ar:** [mydailytaskas.vercel.app](https://mydailytaskas.vercel.app) (acesso dos usuarios)
 ---
 
 ### 🚀 Projetos em destaque
