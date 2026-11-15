@@ -14,9 +14,8 @@
 
 - 🎓 Graduado em **Desenvolvimento de Software**
 - 📚 Cursando **Engenharia de Software** na **Polytechnique Montréal**
-- 🛠️ Gosto de criar sistemas que resolvem problemas reais: escalas de plantão para o **SAMU 192**, agendamento para barbearia, gestão de oficina mecânica e controle de estacionamento
-- 🏠 Mantenho um app em produção num **cluster Kubernetes no meu próprio computador**, publicado na internet com túnel HTTPS da Cloudflare
-- 🌱 Sempre aprendendo: arquitetura de microserviços, DevOps e testes automatizados
+- 🛠️ Gosto de criar sistemas que resolvem problemas reais:
+- 🌱 Sempre aprendendo:
 
 ---
 
@@ -26,7 +25,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
