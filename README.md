@@ -40,13 +40,6 @@
 </p>
 
 ---
-
-### 🟢 Em produção: Painel de Atendimentos · SAMU 192
-
-<a href="https://github.com/CarlosAlvesSantosJr/dashboard-atendimento"><img src="https://raw.githubusercontent.com/CarlosAlvesSantosJr/dashboard-atendimento/main/docs/images/01-painel.png" alt="Painel de Atendimentos SAMU 192" width="100%"></a>
-
-**Sistema em produção, usado pela coordenação do SAMU 192 para apresentar a produtividade do serviço.** A equipe lança cada atendimento em segundos e a coordenação vê na hora os indicadores (horários e dias de pico, bairros, especialidades, faixa etária, óbitos) e gera o relatório em PDF para as reuniões. Também registra as ocorrências em que o paciente já tinha sido levado por terceiros ou que foram canceladas (QTA), sem distorcer as métricas.
-
 - 🌐 **No ar:** [painelsamu192.vercel.app](https://painelsamu192.vercel.app) (acesso restrito à coordenação)
 - 🏗️ **Arquitetura:** frontend estático + funções serverless na Vercel + Postgres serverless no Neon, tudo na região de São Paulo
 - 🔐 **Segurança:** login com cookie assinado (HMAC, HttpOnly), validação no servidor, consultas parametrizadas
