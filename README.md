@@ -41,7 +41,7 @@
 
 ---
 - 🌐 **No ar:** [painelsamu192.vercel.app](https://painelsamu192.vercel.app) (acesso restrito à coordenação)
-- - 🌐 **No ar:** [minhaescala192.vercel.app](https://minhaescala192.vercel.app) (acesso dos usuarios e coordenação)
+- 🌐 **No ar:** [minhaescala192.vercel.app](https://minhaescala192.vercel.app) (acesso dos usuarios e coordenação)
 - 🏗️ **Arquitetura:** frontend estático + funções serverless na Vercel + Postgres serverless no Neon, tudo na região de São Paulo
 - 🔐 **Segurança:** login com cookie assinado (HMAC, HttpOnly), validação no servidor, consultas parametrizadas
 - ✅ **Qualidade:** 31 testes end-to-end com Playwright, incluindo a API contra o banco real
