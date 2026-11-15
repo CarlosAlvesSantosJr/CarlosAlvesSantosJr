@@ -42,15 +42,6 @@
 ---
 - 🌐 **No ar:** [painelsamu192.vercel.app](https://painelsamu192.vercel.app) (acesso restrito à coordenação)
 - 🌐 **No ar:** [minhaescala192.vercel.app](https://minhaescala192.vercel.app) (acesso dos usuarios e coordenação)
-
-<p>
-  <img src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-2e9e5b?style=flat-square" alt="Em produção">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black" alt="Neon Postgres">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-</p>
-
 ---
 
 ### 🚀 Projetos em destaque
