@@ -54,7 +54,7 @@
 | [💈 Pitbull Barber](https://github.com/CarlosAlvesSantosJr/PitBullBarberShop) | Agendamento online para barbearia: o cliente marca em três toques e o barbeiro acompanha a agenda e os relatórios. Instala no celular (PWA). | Java 21 · Spring Boot · Docker · Kubernetes |
 | [🔧 Gestão de Veículos](https://github.com/CarlosAlvesSantosJr/Gest-oDeVeiculos) | Painel em tempo real para oficina mecânica, app do gerente no celular e aviso automático por WhatsApp quando o carro fica pronto. | JavaScript · Node.js · Docker |
 | [🅿️ VagaCerta](https://github.com/CarlosAlvesSantosJr/VagaCerta-ControleDeEstacionamento) | Controle de estacionamento em microserviços: entrada e saída de veículos, cobrança por fração de 15 min e planos de mensalistas. | Java 21 · Spring Boot · PostgreSQL · nginx · Docker Compose |
-| [✅ Minhas Tarefas](https://github.com/CarlosAlvesSantosJr/ToDoListSetTwo) | PWA de tarefas com login, calendário, lista de mercado compartilhada em tempo real e notificações. **Em produção** no meu cluster Kubernetes. | JavaScript · Node.js · Kubernetes · Cloudflare Tunnel |
+| [✅ My Daily Tasks](https://github.com/CarlosAlvesSantosJr/ToDoListSetTwo) | PWA de tarefas com login, calendário, lista de mercado compartilhada em tempo real e notificações. **Em produção** no meu cluster Kubernetes. | JavaScript · Node.js · Kubernetes · Cloudflare Tunnel |
 
 ---
 
