@@ -49,8 +49,8 @@
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [📊 Painel de Atendimentos · SAMU 192](https://github.com/CarlosAlvesSantosJr/dashboard-atendimento) 🟢 | **Em produção, usado pela coordenação do SAMU 192** para apresentar a produtividade: lançamento diário dos atendimentos, indicadores e gráficos em tempo real, relatório em PDF e planilha. [Acessar ↗](https://painelsamu192.vercel.app) | JavaScript · Node.js · Vercel · Neon Postgres · Playwright |
 | [🚑 Escala de Plantão · SAMU 192](https://github.com/CarlosAlvesSantosJr/escalas-de-plantao) | Gera escalas de plantão automáticas e justas para equipes de ambulância, respeitando folgas, férias e descanso pós-noite. A equipe consulta e troca plantões pelo celular. | Python · Flask · Docker · Kubernetes · pytest |
+| [📊 Painel de Atendimentos · SAMU 192](https://github.com/CarlosAlvesSantosJr/dashboard-atendimento) 🟢 | **Em produção, usado pela coordenação do SAMU 192** para apresentar a produtividade: lançamento diário dos atendimentos, indicadores e gráficos em tempo real, relatório em PDF e planilha.| JavaScript · Node.js · Vercel · Neon Postgres · Playwright |
 | [💈 Pitbull Barber](https://github.com/CarlosAlvesSantosJr/PitBullBarberShop) | Agendamento online para barbearia: o cliente marca em três toques e o barbeiro acompanha a agenda e os relatórios. Instala no celular (PWA). | Java 21 · Spring Boot · Docker · Kubernetes |
 | [🔧 Gestão de Veículos - mecânica](https://github.com/CarlosAlvesSantosJr/Gest-oDeVeiculos) | Painel em tempo real para oficina mecânica, app do gerente no celular e aviso automático por WhatsApp quando o carro fica pronto. | JavaScript · Node.js · Docker |
 | [🅿️ Vaga Certa - gestão estacionamento](https://github.com/CarlosAlvesSantosJr/VagaCerta-ControleDeEstacionamento) | Controle de estacionamento em microserviços: entrada e saída de veículos, cobrança por fração de 15 min e planos de mensalistas. | Java 21 · Spring Boot · PostgreSQL · nginx · Docker Compose |
